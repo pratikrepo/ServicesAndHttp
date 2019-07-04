@@ -1,0 +1,12 @@
+h1{color:rgb(172, 230, 16)}
+h2{color:rgb(231, 35, 133)}
+.container{background: white    ;
+line-height: 30px;
+color: black;
+word-spacing: 10px;
+letter-spacing: 2px;
+padding:30px}
+input.ng-valid{
+    border-left: 5px solid green;
+}
+input.ng-invalid{border-left: 5px solid red;}
